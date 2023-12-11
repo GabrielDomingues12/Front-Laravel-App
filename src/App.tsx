@@ -1,6 +1,6 @@
 import './App.css'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Dashboard from './components/Dashboard'
+import Dashboard from './Pages/Dashboard'
 import Container from './components/Container'
 import { DashProvider } from './Context'
 function App() {
